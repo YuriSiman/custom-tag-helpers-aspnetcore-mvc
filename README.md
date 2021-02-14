@@ -23,17 +23,17 @@ git clone https://github.com/YuriSiman/custom-tag-helpers-aspnetcore-mvc.git
 - [x] Implementando a TagHelper na _Layout
 - [x] Registrando o namespace para uso da TagHelper na _ViewImports
 
-## 🤔 Contribuindo
+## :thinking: Contribuindo
 
 > Para começar...
 
 ### Passo 1
 
-* 🍴 Fork este repositório!
+* :fork_and_knife: Fork este repositório!
 
 ### Passo 2
 
-* 👯 Clone este repositório para sua máquina local usando `https://github.com/YuriSiman/custom-tag-helpers-aspnetcore-mvc.git`
+* :dancers: Clone este repositório para sua máquina local usando `https://github.com/YuriSiman/custom-tag-helpers-aspnetcore-mvc.git`
 
 ### Passo 3
 
@@ -41,15 +41,15 @@ git clone https://github.com/YuriSiman/custom-tag-helpers-aspnetcore-mvc.git
 
 ### Passo 4
 
-* ✅ Commit suas mudanças usando `git commit -m "feat: Minha nova feature"`
+* :white_check_mark: Commit suas mudanças usando `git commit -m "feat: Minha nova feature"`
 
 ### Passo 5
 
-* 📌 Dê um push usando `git push -u origin minha-feature`
+* :pushpin: Dê um push usando `git push -u origin minha-feature`
 
 ### Passo 6
 
-* 🔃 Crie um novo pull request
+* :arrows_clockwise: Crie um novo pull request
 
 Depois que seu pull request for mesclado, você pode excluir sua feature branch  
 
@@ -62,16 +62,16 @@ Depois que seu pull request for mesclado, você pode excluir sua feature branch
 > Entre em contato comigo...  
 
 * Me chame pelo [Linkedin](https://www.linkedin.com/in/yurisiman/)  
-* Me mande um e-mail [Gmail](mailto:yurisimannogueira@gmail.com)  
+* Me mande um e-mail [contato@yurisiman.com.br](mailto:contato@yurisiman.com.br)  
 
 [![Github](https://img.shields.io/badge/github-profile-%237159c1?style=for-the-badge&logo=github)](https://github.com/YuriSiman)  
-[![Curriculum](https://img.shields.io/badge/site-curriculum-%23563D7C?style=for-the-badge&logo=bootstrap)](https://yurisiman.surge.sh/)  
+[![Curriculum](https://img.shields.io/badge/site-curriculum-%23563D7C?style=for-the-badge&logo=bootstrap)](https://yurisiman.com.br)  
 
 ---
 
-## 📝 Licença
+## :pencil: Licença
 
-[![License](https://img.shields.io/badge/license-mit-%23A6CE39?style=for-the-badge&logo=github)](https://github.com/YuriSiman/c-projects/blob/master/LICENSE)   
+[![License](https://img.shields.io/badge/license-mit-%23A6CE39?style=for-the-badge&logo=github)](https://github.com/YuriSiman/custom-tag-helpers-aspnetcore-mvc/blob/master/LICENSE)   
 
 ---
 
