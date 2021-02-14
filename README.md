@@ -16,7 +16,7 @@ Clone este repositório em sua máquina local usando:
 git clone https://github.com/YuriSiman/custom-tag-helpers-aspnetcore-mvc.git
 ```
 
-### :pencil2: Issues
+### :pencil2: Progresso
 
 - [x] Criando o projeto
 - [x] Criando classe EmailTagHelper
