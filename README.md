@@ -33,7 +33,7 @@ git clone https://github.com/YuriSiman/custom-tag-helpers-aspnetcore-mvc.git
 
 ### Passo 2
 
-* :dancers: Clone este repositório para sua máquina local usando `https://github.com/YuriSiman/custom-tag-helpers-aspnetcore-mvc.git`
+* :dancers: Clone este repositório para sua máquina local usando `git clone https://github.com/YuriSiman/custom-tag-helpers-aspnetcore-mvc.git`
 
 ### Passo 3
 
